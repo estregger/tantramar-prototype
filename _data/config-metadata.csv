@@ -5,6 +5,8 @@ date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
+call_number,Call Number,,,,
+mta_location,MTA Library Collection,,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
